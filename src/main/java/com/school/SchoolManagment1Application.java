@@ -8,6 +8,7 @@ public class SchoolManagment1Application {
 
 	public static void main(String[] args) {
 		SpringApplication.run(SchoolManagment1Application.class, args);
+		System.out.println("hello git and jenkins");
 	}
 
 }
